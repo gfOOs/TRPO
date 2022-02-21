@@ -1,0 +1,14 @@
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.exe
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.deps.json
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.runtimeconfig.json
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.runtimeconfig.dev.json
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.dll
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.pdb
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.csproj.AssemblyReference.cache
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.AssemblyInfoInputs.cache
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.AssemblyInfo.cs
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.csproj.CoreCompileInputs.cache
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.dll
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.pdb
+D:\GGPK\КПиЯП\Labs\LAB4\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.genruntimeconfig.cache

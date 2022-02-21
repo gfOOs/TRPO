@@ -1,0 +1,14 @@
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\bin\Debug\netcoreapp3.1\ZADANIE1.exe
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\bin\Debug\netcoreapp3.1\ZADANIE1.deps.json
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\bin\Debug\netcoreapp3.1\ZADANIE1.runtimeconfig.json
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\bin\Debug\netcoreapp3.1\ZADANIE1.runtimeconfig.dev.json
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\bin\Debug\netcoreapp3.1\ZADANIE1.dll
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\bin\Debug\netcoreapp3.1\ZADANIE1.pdb
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\obj\Debug\netcoreapp3.1\ZADANIE1.csproj.AssemblyReference.cache
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\obj\Debug\netcoreapp3.1\ZADANIE1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\obj\Debug\netcoreapp3.1\ZADANIE1.AssemblyInfoInputs.cache
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\obj\Debug\netcoreapp3.1\ZADANIE1.AssemblyInfo.cs
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\obj\Debug\netcoreapp3.1\ZADANIE1.csproj.CoreCompileInputs.cache
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\obj\Debug\netcoreapp3.1\ZADANIE1.dll
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\obj\Debug\netcoreapp3.1\ZADANIE1.pdb
+D:\GGPK\КПиЯП\Labs\LAB6\ZADANIE1\ZADANIE1\obj\Debug\netcoreapp3.1\ZADANIE1.genruntimeconfig.cache

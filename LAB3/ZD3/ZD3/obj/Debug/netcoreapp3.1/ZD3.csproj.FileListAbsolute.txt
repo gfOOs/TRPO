@@ -1,0 +1,13 @@
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\bin\Debug\netcoreapp3.1\ZD3.exe
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\bin\Debug\netcoreapp3.1\ZD3.deps.json
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\bin\Debug\netcoreapp3.1\ZD3.runtimeconfig.json
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\bin\Debug\netcoreapp3.1\ZD3.runtimeconfig.dev.json
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\bin\Debug\netcoreapp3.1\ZD3.dll
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\bin\Debug\netcoreapp3.1\ZD3.pdb
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\obj\Debug\netcoreapp3.1\ZD3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\obj\Debug\netcoreapp3.1\ZD3.AssemblyInfoInputs.cache
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\obj\Debug\netcoreapp3.1\ZD3.AssemblyInfo.cs
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\obj\Debug\netcoreapp3.1\ZD3.csproj.CoreCompileInputs.cache
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\obj\Debug\netcoreapp3.1\ZD3.dll
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\obj\Debug\netcoreapp3.1\ZD3.pdb
+D:\GGPK\КПиЯП\Labs\LAB3\ZD3\ZD3\obj\Debug\netcoreapp3.1\ZD3.genruntimeconfig.cache

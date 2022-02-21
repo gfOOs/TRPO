@@ -1,0 +1,13 @@
+D:\GGPK\КПиЯП\Labs\lab62\lab62\bin\Debug\netcoreapp3.1\lab62.exe
+D:\GGPK\КПиЯП\Labs\lab62\lab62\bin\Debug\netcoreapp3.1\lab62.deps.json
+D:\GGPK\КПиЯП\Labs\lab62\lab62\bin\Debug\netcoreapp3.1\lab62.runtimeconfig.json
+D:\GGPK\КПиЯП\Labs\lab62\lab62\bin\Debug\netcoreapp3.1\lab62.runtimeconfig.dev.json
+D:\GGPK\КПиЯП\Labs\lab62\lab62\bin\Debug\netcoreapp3.1\lab62.dll
+D:\GGPK\КПиЯП\Labs\lab62\lab62\bin\Debug\netcoreapp3.1\lab62.pdb
+D:\GGPK\КПиЯП\Labs\lab62\lab62\obj\Debug\netcoreapp3.1\lab62.GeneratedMSBuildEditorConfig.editorconfig
+D:\GGPK\КПиЯП\Labs\lab62\lab62\obj\Debug\netcoreapp3.1\lab62.AssemblyInfoInputs.cache
+D:\GGPK\КПиЯП\Labs\lab62\lab62\obj\Debug\netcoreapp3.1\lab62.AssemblyInfo.cs
+D:\GGPK\КПиЯП\Labs\lab62\lab62\obj\Debug\netcoreapp3.1\lab62.csproj.CoreCompileInputs.cache
+D:\GGPK\КПиЯП\Labs\lab62\lab62\obj\Debug\netcoreapp3.1\lab62.dll
+D:\GGPK\КПиЯП\Labs\lab62\lab62\obj\Debug\netcoreapp3.1\lab62.pdb
+D:\GGPK\КПиЯП\Labs\lab62\lab62\obj\Debug\netcoreapp3.1\lab62.genruntimeconfig.cache

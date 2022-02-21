@@ -1,0 +1,7 @@
+E:\Рабочий стол\шарага\с#v2\ЛР 12\Z2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Рабочий стол\шарага\с#v2\ЛР 12\Z2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Рабочий стол\шарага\с#v2\ЛР 12\Z2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Рабочий стол\шарага\с#v2\ЛР 12\Z2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Рабочий стол\шарага\с#v2\ЛР 12\Z2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\шарага\с#v2\ЛР 12\Z2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Рабочий стол\шарага\с#v2\ЛР 12\Z2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

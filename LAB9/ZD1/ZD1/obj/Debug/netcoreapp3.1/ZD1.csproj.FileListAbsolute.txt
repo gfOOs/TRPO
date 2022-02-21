@@ -1,0 +1,5 @@
+D:\GGPK\КПиЯП\Labs\LAB9\ZD1\ZD1\obj\Debug\netcoreapp3.1\ZD1.csproj.AssemblyReference.cache
+D:\GGPK\КПиЯП\Labs\LAB9\ZD1\ZD1\obj\Debug\netcoreapp3.1\ZD1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GGPK\КПиЯП\Labs\LAB9\ZD1\ZD1\obj\Debug\netcoreapp3.1\ZD1.AssemblyInfoInputs.cache
+D:\GGPK\КПиЯП\Labs\LAB9\ZD1\ZD1\obj\Debug\netcoreapp3.1\ZD1.AssemblyInfo.cs
+D:\GGPK\КПиЯП\Labs\LAB9\ZD1\ZD1\obj\Debug\netcoreapp3.1\ZD1.csproj.CoreCompileInputs.cache
